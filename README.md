@@ -1,6 +1,6 @@
 <!-- ===================== HERO ===================== -->
 <h1 align="center">
-  👋 Hi, I’m <b>Mahan Adhikari</b>
+  👋 Hi, I'm <b>Mahan Adhikari</b>
 </h1>
 
 <p align="center">
@@ -12,10 +12,19 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/go-chi/chi/pull/1045">
+    <img src="https://img.shields.io/badge/Chi-Contributor-00ADD8?style=flat&logo=go&logoColor=white"/>
+  </a>
+  <a href="https://github.com/gin-gonic/gin/pull/4511">
+    <img src="https://img.shields.io/badge/Gin-Contributor-00ADD8?style=flat&logo=go&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB">
+  <a href="https://github.com/mahanadh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
   <a href="https://YOUR_BLOG">
@@ -27,13 +36,22 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Senior Software Engineer** building **production-grade backend platforms** with a strong focus on:
+I'm a **Senior Software Engineer** building **production-grade backend platforms** with a strong focus on:
 
 - **High-throughput APIs**
 - **Cloud-native infrastructure**
 - **Safe, observable AI integrations**
 
 My recent work centers on **integrating LLMs into real backend workflows** — not demos — with attention to **cost control, reliability, evaluation, and failure modes**.
+
+---
+
+## 🌍 Open Source Contributions
+
+| Project | Contribution | Status |
+|---------|-------------|--------|
+| [go-chi/chi](https://github.com/go-chi/chi) | [Fix: Prevent double handler invocation in RouteHeaders middleware](https://github.com/go-chi/chi/pull/1045) | ✅ Merged |
+| [gin-gonic/gin](https://github.com/gin-gonic/gin) | [Fix: Typos, documentation clarity, and dead code removal](https://github.com/gin-gonic/gin/pull/4511) | ✅ Merged (v1.12) |
 
 ---
 
@@ -105,8 +123,9 @@ I work on **practical AI integrations**, not generic prompt experiments.
 
 ---
 
-## 🚀 What I’ve Built (Themes)
+## 🚀 What I've Built (Themes)
 
+- **Open source contributor** to [Chi](https://github.com/go-chi/chi) and [Gin](https://github.com/gin-gonic/gin) — two of Go's most popular HTTP frameworks
 - Backend platforms processing **large-scale PDF & image workflows**
 - AI-assisted pipelines with **human validation & quality metrics**
 - Performance & payout monitoring systems using real-time data
@@ -135,17 +154,17 @@ I write about:
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 If you care about:
 - Backend engineering done right
 - AI in production (not hype)
 - Go, cloud platforms, and system design
 
-Let’s talk 👋
+Let's talk 👋
 
 ---
 
 <p align="center">
-  <i>“AI is just another dependency — treat it like one.”</i>
+  <i>"AI is just another dependency — treat it like one."</i>
 </p>
