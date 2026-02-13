@@ -21,13 +21,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/mahan-adhikari-6406ba15a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/mahanadh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
-  <a href="https://YOUR_BLOG">
+  <a href="https://mahanadhikari.hashnode.dev">
     <img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=hashnode&logoColor=white"/>
   </a>
 </p>
